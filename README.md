@@ -20,3 +20,11 @@
 ## CS-260-WEB : Information Technology Ethics
 ## MA-222-HP : Intermediate Statistics
 ## BA-155-WS2 : Principles of Marketing
+## IS-380-WSU2 : Database & Data Administration
+## CS-190-01 : Secure Software Development
+## CS-346-01 : Machine Learning 1
+## DS-210-01 : Introduction to Data Science
+
+## Minor
+## PC-185-02 : General Physics 1
+## PC-187-03 : General Physics Laboratory 1
