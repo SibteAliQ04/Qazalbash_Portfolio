@@ -28,5 +28,3 @@
 ## Minor
 ## PC-185-02 : General Physics 1(Classical mechanics)
 ## PC-187-03 : General Physics Laboratory 1A laboratory course to accompany Pc185)
-
-git commit -m "Initial setup for portfolio project"
